@@ -13,7 +13,7 @@
                 Console.WriteLine("git is cool.");
             }
 
-
+            Console.WriteLine("WE ARE CREATING A MERGE CONFLICT BOIIII");
         }
     }
 }
